@@ -1,7 +1,7 @@
 # speedtests_chat
 境外卡测速数据chat群
 
-telegram群组：
+Telegram群组：
 
 频道: https://t.me/speedtests
 
